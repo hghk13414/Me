@@ -1,7 +1,7 @@
 {
   "name": "new6",
   "version": "0.1.0",
-  "homepage": "https://github.com/hghk13414/myp",
+  "homepage": "https://github.com/hghk13414/gsd.git",
   "private": true,
   "dependencies": {
     "@coreui/coreui": "^4.3.2",
