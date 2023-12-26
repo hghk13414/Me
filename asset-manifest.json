@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hghk13414/myp/static/css/main.906ca975.css",
+    "main.js": "/hghk13414/myp/static/js/main.b1153dc5.js",
+    "static/js/787.bbd0f1b9.chunk.js": "/hghk13414/myp/static/js/787.bbd0f1b9.chunk.js",
+    "static/media/Nehad_Shretah_Light.jpg": "/hghk13414/myp/static/media/Nehad_Shretah_Light.d0f3e5d14ecb34623173.jpg",
+    "static/media/Nehad_Shretah_Dark.jpg": "/hghk13414/myp/static/media/Nehad_Shretah_Dark.2afc4ae276c471150f2e.jpg",
+    "index.html": "/hghk13414/myp/index.html",
+    "main.906ca975.css.map": "/hghk13414/myp/static/css/main.906ca975.css.map",
+    "main.b1153dc5.js.map": "/hghk13414/myp/static/js/main.b1153dc5.js.map",
+    "787.bbd0f1b9.chunk.js.map": "/hghk13414/myp/static/js/787.bbd0f1b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.906ca975.css",
+    "static/js/main.b1153dc5.js"
+  ]
+}
